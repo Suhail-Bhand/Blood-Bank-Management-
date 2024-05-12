@@ -27,5 +27,9 @@ Follow the instructions provided for your specific Linux distribution.
 Ensure that your MySQL server is running.
 
 # Database Connectivity
-Open the necessary configuration file. <br>
-Update the database connection details:
+Identify Database Connection Details:<br>
+Gather the following information required for database connectivity:<br>
+IP address of the MySQL server.<br>
+Database username.<br>
+Database password.<br>
+Database name.<br>
