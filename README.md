@@ -33,7 +33,7 @@ IP address of the MySQL server.<br>
 Database username.<br>
 Database password.<br>
 Database name.<br>
-****Update Database Connection Settings in your Project:**
+**Update Database Connection Settings in your Project:**
 Locate the file in your project where database connection settings are defined.<br>
 This could be a configuration file, a properties file, or directly in your application code.<br>
 Open the file in a text editor.<br>
