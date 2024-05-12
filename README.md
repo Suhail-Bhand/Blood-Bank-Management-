@@ -4,9 +4,7 @@ The Blood Bank Management System, built on MySQL, organizes donor data, tracks i
 # Install MySQL Database:
 
 If MySQL is not already installed on your system, download and install it from the official MySQL website: MySQL Downloads. 
-<a href="https://www.mysql.com/downloads/" target="_blank" title=" MySQL Downloads"> MySQL Downloads</a>
-
-<br>
+<a href="https://www.mysql.com/downloads/" target="_blank" title=" MySQL Downloads"> MySQL Downloads</a><br>
 Follow the installation instructions provided for your operating system.
 Windows:
 
