@@ -8,5 +8,5 @@ MySQL database
 Ensure that your MySQL server is running.
 
 # Database Connectivity
-Open the necessary configuration file.
+Open the necessary configuration file. <br>
 Update the database connection details:
