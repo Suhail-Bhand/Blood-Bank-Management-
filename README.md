@@ -37,4 +37,4 @@ Database name.<br>
 Locate the file in your project where database connection settings are defined.<br>
 This could be a configuration file, a properties file, or directly in your application code.<br>
 Open the file in a text editor.<br>
-![Interface](C:\Users\bhand\Downloads.png)
+![Interface](C:\Users\bhand.png)
