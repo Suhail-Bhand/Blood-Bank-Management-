@@ -6,3 +6,7 @@ MySQL database
 
 # Running the Project -
 Ensure that your MySQL server is running.
+
+# Database Connectivity
+Open the necessary configuration file.
+Update the database connection details:
